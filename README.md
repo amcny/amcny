@@ -1,4 +1,4 @@
-no[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Chaitanya;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Chaitanya;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
 <h3 align="center">A passionate Web & App developer from National Institute of Technology, Andhra Pradesh</h3>
