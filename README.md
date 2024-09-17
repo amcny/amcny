@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [NIT AP: ECE Student App](https://www.linkedin.com/posts/chaitanyapullagura_exciting-announcement-introducing-activity-7093802000559083520-obKU?utm_source=share&utm_medium=member_android)
 
-- 🌱 I’m currently learning **Flutter & Backend-related Skills**
+- 🌱 Expert in **Flutter & Backend-related Skills**
 
 - 👤 Visit my portfolio: [https://amcny.pages.dev/](https://amcny.pages.dev/)
 
