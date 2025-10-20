@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amcny&label=Profile%20views&color=0e75b6&style=flat" alt="amcny" /> </p>
 
-- 🔭 I’m currently working on [NIT AP: ECE Student App](https://www.linkedin.com/posts/chaitanyapullagura_exciting-announcement-introducing-activity-7093802000559083520-obKU?utm_source=share&utm_medium=member_android)
 
 - 🌱 Expert in **Flutter & Backend-related Skills**
 
